@@ -1,0 +1,27 @@
+.movie-bg{
+    background-color: #bbbbbb;
+}
+table {
+    height: 100vh;
+    border-collapse: unset;
+        border-spacing: 10px;
+    
+}
+.movie-padding{
+    padding-top: 23px;
+}
+.size {
+    padding: 0;
+}
+table td {
+    border: 1px solid red;
+    border-radius: 1px;
+    width: 19%;
+    height:12vh;
+    background-color: gray;
+}
+
+.active-movie-link:visited{
+    color: #626262
+;
+}

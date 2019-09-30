@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+}
+header h2 {
+    padding: 30px;
+}
+header ul {
+    margin: 0;
+}
+/* for horizontal menu*/
+header > ul > li {
+    display: inline-block;
+    position: relative;
+}
+header >ul >li > a{
+    display: block;
+    padding: 9px 48px;
+}
+.active-home-link:visited {
+    color: #626262;
+}
+
+.col-lg-5 {
+    padding: 50px;
+    text-align: center;
+}
+
+.footer h5{
+    text-align: center;
+}

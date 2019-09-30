@@ -1,0 +1,18 @@
+fieldset {
+    border: medium none !important;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+}
+label {
+    display: block;
+}
+select {
+    width: 176px;
+}
+.active-contact-link:visited{
+    color: #626262;
+}
+
+
